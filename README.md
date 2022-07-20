@@ -1,4 +1,4 @@
-### On line CV using JavaScript, HTML, CSS, Node.js .
+### On line CV using JavaScript, HTML, CSS, Node.js
 
 ### deployed on Netlify at
 
