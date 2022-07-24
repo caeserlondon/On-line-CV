@@ -145,6 +145,10 @@ section:last-child {
 	font-size: 1.5em;
 	margin-bottom: -2px;
 }
+.sectionContent h4 {
+	font-size: 1.1em;
+	margin-bottom: -2px;
+}
 
 .subDetails {
 	font-size: 0.8em;
@@ -168,6 +172,23 @@ section:last-child {
 	margin-bottom: 20px;
 	font-size: 1em;
 	color: #444;
+}
+
+.btn {
+	background-color: #cf8a05;
+	color: white;
+
+	cursor: pointer;
+	opacity: 0.5;
+	border-radius: 20px;
+	padding: 2px 8px;
+	text-decoration: none;
+	margin-right: 10px;
+}
+
+.projects {
+	display: flex;
+	align-items: center;
 }
 
 @media all and (min-width: 602px) and (max-width: 800px) {
