@@ -1,23 +1,23 @@
 {
-  "name": "cv-node",
-  "version": "1.0.0",
-  "description": "online-cv",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/caeserlondon/cv-node.git"
-  },
-  "author": "caeser-ibrahim",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/caeserlondon/cv-node/issues"
-  },
-  "homepage": "https://github.com/caeserlondon/cv-node#readme",
-  "dependencies": {
-    "express": "^4.18.1",
-    "path": "^0.12.7"
-  }
+	"name": "cv-node",
+	"version": "1.0.0",
+	"description": "online-cv",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/caeserlondon/On-line-CV.git"
+	},
+	"author": "caeser-ibrahim",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/caeserlondon/On-line-CV/issues"
+	},
+	"homepage": "https://github.com/caeserlondon/On-line-CV#readme",
+	"dependencies": {
+		"express": "^4.18.1",
+		"path": "^0.12.7"
+	}
 }
